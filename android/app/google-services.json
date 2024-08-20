@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617998391989",
+    "project_id": "seven-semester-project-dea16",
+    "storage_bucket": "seven-semester-project-dea16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617998391989:android:0181bfbdd25b7c0e1f3cfc",
+        "android_client_info": {
+          "package_name": "com.example.seventh_sem_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg8xeBrLfT73H5zdaFfLDWnJteD0bOOS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
